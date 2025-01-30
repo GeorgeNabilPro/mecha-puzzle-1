@@ -1,0 +1,17 @@
+[
+    ["6-1", "Ball Bearing", "A bearing with spherical balls between inner and outer rings, reducing friction for smooth rotation, widely used in machinery and appliances."],
+    ["6-2", "Angular Contact Bearing", "A ball bearing designed to support combined radial and axial loads with angular alignment, often used in high-speed applications like turbines."],
+    ["6-3", "Thrust Ball Bearing", "A ball bearing specifically for axial loads, not radial loads, ideal for low-speed applications such as swivel chairs."],
+    ["6-4", "Thrust Rooler Bearing", "A roller bearing designed to handle high axial loads and some radial loads, commonly used in heavy machinery and automotive applications."],
+    ["6-5", "Spherical Roller Bearing", "A self-aligning bearing with barrel-shaped rollers, suited for high load capacity and misaligned shafts in heavy-duty machinery."],
+    ["6-6", "Tapered Roller Bearing", "Conical rollers positioned at an angle, supporting heavy radial and axial loads, commonly used in vehicle wheel assemblies."],
+    ["6-7", "Needle Roller Bearing", "A compact bearing with thin, cylindrical rollers, effective for high radial load capacities in confined spaces, like automotive components."],
+    ["6-8", "Plain Bearing", "A simple, friction-based bearing without rolling elements, used in low-cost and low-maintenance applications such as door hinges."],
+    ["6-9", "Journal Bearing", "A type of plain bearing where a shaft rotates within a lubricated sleeve, ideal for high-load, low-speed applications like engine crankshafts."],
+    ["6-10", "Wheel Hub Bearing", "An integrated bearing assembly for vehicle wheels, providing smooth rotation and supporting weight and loads from the road."],
+    ["6-11", "Linear Bearing", "A bearing designed for linear motion along a rail or guide, commonly used in CNC machinery for precise movement."],
+    ["6-12", "Magnetic Bearing", "A frictionless bearing that uses magnetic fields to levitate a rotating shaft, enabling high-speed, low-wear applications in specialized machinery."],
+    ["6-13", "Pillow Block Bearing"],
+    ["6-14", "Flange Bearing"],
+    ["6-15", "Cross Roller Bearing"]
+]

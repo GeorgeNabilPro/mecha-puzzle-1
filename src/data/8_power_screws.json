@@ -1,0 +1,8 @@
+[
+    ["8-3", "Acme Screws", "Heavy-duty power screws with trapezoidal threads, designed for carrying significant loads"],
+    ["8-1", "Trapezoidal Screws", "Power screws with trapezoidal threads, offering precise linear motion with moderate efficiency. The thread angle is 30 degrees, compared to 29 degrees for ACME screws."],
+    ["8-5", "Square Thread Screws", "Efficient power screws with square threads, ideal for heavy load-bearing but harder to manufacture."],
+    ["8-2", "Ball Screws", "High-efficiency power screws using ball bearings to reduce friction for smooth, precise motion."],
+    ["8-4", "Buttress Screws", "Power screws with asymmetrical threads, optimized for transmitting force in one direction."]
+]
+

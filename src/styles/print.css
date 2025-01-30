@@ -1,0 +1,19 @@
+@media print {
+  @page {
+    size: a3;
+    margin: 15mm;
+    scale: 0.8;
+  }
+
+  .__part_card {
+    page-break-inside: avoid;
+  }
+
+  #__navbar {
+    display: none;
+  }
+
+  h2 + svg {
+    display: none;
+  }
+}

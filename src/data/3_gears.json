@@ -1,0 +1,13 @@
+[
+    ["3-1", "Straight spur gear", "A gear with straight teeth that are parallel to the axis of rotation. It transmits power between parallel shafts with high efficiency but generates noise at high speeds due to abrupt tooth engagement"],
+    ["3-2", "Rach and pinion", "A linear gear system where a round gear (pinion) engages with a flat, toothed bar (rack), converting rotational motion into linear motion, commonly used in steering systems and linear actuators"],
+    ["3-3", "Bevel Gear", "A cone-shaped gear with teeth cut along its surface, used to transmit power between shafts that intersect at an angle, typically 90 degrees, found in differential drives and gearboxes"],
+    ["3-4", "Worm and Worm Gear", "A gear system consisting of a screw-like worm that meshes with a worm gear (similar to a spur gear), transmitting motion at 90 degrees while achieving high torque reduction and self-locking capabilities"],
+    ["3-5", "Helical Spur Gear", "A spur gear with angled teeth, providing smoother and quieter operation than straight spur gears due to gradual tooth engagement. It can transmit power between parallel or crossed shafts"],
+    ["3-6", "Helical Rack and Pinion", "A variation of the rack and pinion where the pinion gear has helical teeth, offering smoother and quieter linear motion transmission compared to straight rack and pinion systems"],
+    ["3-7", "Spiral Bevel Gear", "A type of bevel gear with curved, spiral-shaped teeth, offering smoother and quieter power transmission between intersecting shafts, typically used in automotive differentials"],
+    ["3-8", "Crown Gear", "A type of bevel gear with teeth cut perpendicular to the plane of the gear, resembling a crown. It engages with other bevel gears and is often used in right-angle gear drives"],
+    ["3-14", "Hypoid Gear", "A type of bevel gear where the axes of the gears are offset, offering smoother and quieter operation at high speeds, used in automotive differentials for torque transmission with a lower center of gravity"],
+    ["3-9", "Internal Gear", "A gear with teeth on the inner circumference of a ring, used in applications like planetary gear systems where it meshes with external gears inside it to transmit motion."],
+    ["3-10", "Planetary Gear / Epicyclic Gear / Sun and Planet Gear", ""]
+]

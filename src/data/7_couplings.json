@@ -1,0 +1,38 @@
+[
+    ["7-1", "Flange Coupling", "Connects shafts using two bolted flanges, providing a rigid and strong connection for high-torque applications like pumps and heavy machinery."],
+    ["7-2", "Sleeve Coupling", "Uses a simple hollow sleeve to join two shafts with keys, making it ideal for low-cost, light-duty applications where alignment is maintained."],
+    ["7-4", "Split Muff Coupling", "A two-piece sleeve clamped around shafts with bolts, allowing easy assembly and disassembly in moderate to high-torque applications requiring maintenance."],
+    ["7-5", "Gear Coupling", "Uses interlocking gears to transmit high torque while allowing slight misalignment, making it suitable for high-speed machinery like turbines and rolling mills."],
+    ["7-6", "Fluid Coupling", "Transfers power through fluid motion between an impeller and a runner, ensuring smooth torque transmission in heavy-duty systems like conveyors and marine propulsion."],
+    ["7-7", "Universal Coupling", "Uses a cross-shaft and yokes to allow angular misalignment, commonly found in automobile driveshafts and machinery with variable shaft angles."],
+    ["7-9", "Bellow Coupling", "Features a flexible metal bellows to compensate for misalignment, making it ideal for precision applications like encoders and servo motors."],
+    ["7-12", "Diaphragm Coupling", "Utilizes a thin metal diaphragm to flex and transmit torque while handling misalignment, used in aerospace, turbines, and high-speed machinery."],
+    ["7-13", "Spider Coupling (Jaw Coupling)", "A type of elastomeric coupling with a flexible \"spider\" insert that absorbs shock and compensates for minor misalignments in light-to-medium duty applications."],
+    ["7-14", "Oldham Coupling", "Employs a three-piece sliding disc system to accommodate radial misalignment, making it useful in CNC machines and precision automation systems."],
+    ["7-15", "Pin and Bush Coupling", "Uses flexible rubber or plastic bushes between pins to absorb shock and vibration, suitable for general industrial applications."],
+    ["7-17", "Grid Coupling", "Uses a flexible metallic grid between two slotted hubs to absorb shock and vibration, often used in pumps, fans, and conveyors."],
+    ["7-20", "Disc Coupling", "Uses multiple thin metal discs to flex under misalignment while transmitting torque, making it ideal for precision, high-speed applications."],
+    ["7-21", "Magnetic Coupling", "Uses magnets to transfer torque without physical contact, ensuring zero leakage in sealed systems like pumps handling hazardous fluids."]
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

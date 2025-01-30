@@ -1,0 +1,7 @@
+[
+    ["1-1", "Stepped shaft", "A shaft with varying diameters along its length, typically used to accommodate different bearings, gears, or other machine components. The \"steps\" provide support for parts with different size requirements or allow for secure mounting.", [] ],
+    ["1-2", "Spindle", "A rotating shaft in machinery such as lathes, drills, or milling machines, responsible for holding and spinning the tool or workpiece. Spindles ensure precision and smooth rotation in machining operations", [] ],
+    ["1-3", "Railway rotating axle", "A shaft that connects the wheels of a railway vehicle and rotates with them, transmitting torque while supporting the vehicle's weight. These axles endure significant loads and stresses during operation", []],
+    ["1-4", "Crankshaft", "A shaft with offset cranks or arms, converting linear motion into rotational motion, commonly found in engines where it transfers the reciprocating motion of pistons into rotational energy to drive the machinery", []],
+    ["1-6", "Camshaft", "These shafts have cams (raised or shaped lobes) along their length and are typically used in engines to control the timing and movement of intake and exhaust valves, synchronizing with the crankshaft", []]
+]
