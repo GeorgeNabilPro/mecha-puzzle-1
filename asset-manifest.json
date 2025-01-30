@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/mecha-puzzle/static/css/main.ce9a554d.css",
-    "main.js": "/mecha-puzzle/static/js/main.393e6bc6.js",
-    "index.html": "/mecha-puzzle/index.html",
-    "static/media/Logo2.svg": "/mecha-puzzle/static/media/Logo2.b0a12c211e05f5a7b7f39ca336f8ce70.svg",
-    "main.ce9a554d.css.map": "/mecha-puzzle/static/css/main.ce9a554d.css.map",
-    "main.393e6bc6.js.map": "/mecha-puzzle/static/js/main.393e6bc6.js.map"
+    "main.css": "/mecha-puzzle-1/static/css/main.ce9a554d.css",
+    "main.js": "/mecha-puzzle-1/static/js/main.9bf70cb4.js",
+    "index.html": "/mecha-puzzle-1/index.html",
+    "static/media/Logo2.svg": "/mecha-puzzle-1/static/media/Logo2.b0a12c211e05f5a7b7f39ca336f8ce70.svg",
+    "main.ce9a554d.css.map": "/mecha-puzzle-1/static/css/main.ce9a554d.css.map",
+    "main.9bf70cb4.js.map": "/mecha-puzzle-1/static/js/main.9bf70cb4.js.map"
   },
   "entrypoints": [
     "static/css/main.ce9a554d.css",
-    "static/js/main.393e6bc6.js"
+    "static/js/main.9bf70cb4.js"
   ]
 }
