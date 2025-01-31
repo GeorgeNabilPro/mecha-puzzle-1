@@ -1,5 +1,5 @@
 {
-  "homepage": "https://georgenabilpro.github.io",
+  "homepage": "https://georgenabilpro.github.io/mecha-puzzle-1",
   "name": "mecha-puzzle",
   "version": "0.1.0",
   "private": true,
@@ -29,6 +29,7 @@
     "prettier-plugin-multiline-arrays": "^3.0.6",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
+    "react-error-boundary": "^5.0.0",
     "react-router-dom": "^6.26.2",
     "react-scripts": "5.0.1",
     "react-to-print": "^2.15.1",

@@ -4,36 +4,17 @@ import Root from "./App";
 import "./styles/output/global.css";
 import "./styles/output/print.css";
 import ErrorElement from "./components/ErrorElement";
-
-import HomePage from "./pages/Home";
-import PartsPage from "./pages/Parts";
-
-import { RouterProvider, createBrowserRouter } from "react-router-dom";
-
-const router = createBrowserRouter([
-  {
-    path: "mecha-puzzle-1/",
-    element: <Root />,
-    errorElement: <ErrorElement />,
-    children: [
-      {
-        path: "home",
-        element: <HomePage />,
-      },
-      {
-        path: "", // default page
-        element: <PartsPage />,
-      },
-    ],
-  },
-]);
+import { ErrorBoundary } from "react-error-boundary";
 
 const root = ReactDOM.createRoot(
   document.getElementById("root") as HTMLElement
 );
+
 root.render(
   <React.StrictMode>
-    <RouterProvider router={router} />
+    <ErrorBoundary FallbackComponent={ErrorElement}>
+      <Root />
+    </ErrorBoundary>
   </React.StrictMode>
 );
 
