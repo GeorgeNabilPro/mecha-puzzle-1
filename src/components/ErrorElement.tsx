@@ -5,7 +5,7 @@ export default function Component() {
   return (
     <div className="min-h-screen bg-gray-100 flex flex-col items-center justify-center p-4">
       <div className="max-w-md w-full bg-white shadow-lg rounded-lg overflow-hidden">
-        <div className="p-4 bg-green-600 text-white flex items-center justify-between">
+        <div className="p-4 bg-red-600 text-white flex items-center justify-between">
           <h1 className="text-2xl font-bold">Error 404</h1>
           <Wrench className="h-6 w-6" />
         </div>
@@ -24,13 +24,13 @@ export default function Component() {
             misplaced in our engineering archives.
           </p>
           <div className="flex justify-center space-x-4 mb-6">
-            <Ruler className="h-6 w-6 text-green-600" />
-            <Cog className="h-6 w-6 text-green-600" />
-            <Wrench className="h-6 w-6 text-green-600" />
+            <Ruler className="h-6 w-6 text-red-600" />
+            <Cog className="h-6 w-6 text-red-600" />
+            <Wrench className="h-6 w-6 text-red-600" />
           </div>
           <div className="text-center">
-            <a href="/">
-              <Button className="bg-green-600 hover:bg-green-700 text-white">
+            <a href="/mecha-puzzle-1">
+              <Button className="bg-red-600 hover:bg-red-700 text-white">
                 <Home className="mr-2 h-4 w-4" />
                 Return to Workshop
               </Button>
