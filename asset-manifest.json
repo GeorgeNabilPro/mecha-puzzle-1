@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/georgenabilpro.github.io/mecha-puzzle-1/static/css/main.cb5f1636.css",
-    "main.js": "/georgenabilpro.github.io/mecha-puzzle-1/static/js/main.05da4698.js",
-    "index.html": "/georgenabilpro.github.io/mecha-puzzle-1/index.html",
-    "static/media/Logo2.svg": "/georgenabilpro.github.io/mecha-puzzle-1/static/media/Logo2.b0a12c211e05f5a7b7f39ca336f8ce70.svg",
-    "main.cb5f1636.css.map": "/georgenabilpro.github.io/mecha-puzzle-1/static/css/main.cb5f1636.css.map",
-    "main.05da4698.js.map": "/georgenabilpro.github.io/mecha-puzzle-1/static/js/main.05da4698.js.map"
+    "main.css": "/mecha-puzzle-1/static/css/main.cb5f1636.css",
+    "main.js": "/mecha-puzzle-1/static/js/main.07db4027.js",
+    "index.html": "/mecha-puzzle-1/index.html",
+    "static/media/Logo2.svg": "/mecha-puzzle-1/static/media/Logo2.b0a12c211e05f5a7b7f39ca336f8ce70.svg",
+    "main.cb5f1636.css.map": "/mecha-puzzle-1/static/css/main.cb5f1636.css.map",
+    "main.07db4027.js.map": "/mecha-puzzle-1/static/js/main.07db4027.js.map"
   },
   "entrypoints": [
     "static/css/main.cb5f1636.css",
-    "static/js/main.05da4698.js"
+    "static/js/main.07db4027.js"
   ]
 }
